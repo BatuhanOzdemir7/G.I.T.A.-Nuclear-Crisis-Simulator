@@ -1,9 +1,19 @@
-# ☢️ G.I.T.A. (Global Intelligence & Technical Analysis)
+# G.I.T.A. (Global Intelligence & Technical Analysis) ☢️
+
+> *"Now I am become Death, the destroyer of worlds."*
+> — **J. Robert Oppenheimer** (quoting the Bhagavad Gita)
+
+## 🕯️ Project Manifesto
+
+**G.I.T.A.** is not merely an acronym for *Global Intelligence & Technical Analysis*. It is a deliberate reference to the **Bhagavad Gita**, best known for the scripture J. Robert Oppenheimer recalled when he witnessed the first nuclear detonation.
+
+This project is less of a game designed for entertainment, and more of an **interactive social awareness project**. It places you in the claustrophobic chair of a decision-maker, simulating the terrifying reality of the **1983 nuclear false alarm incident (Stanislav Petrov)** and the ruthless logic of the Soviet **"Dead Hand" (Perimeter)** system.
+
+The goal is not to "win," but to experience the weight of a button that can end civilization. It questions whether human conscience or cold logic should dictate our survival in the atomic age.
+
+---
 "The worst decision is indecision."
-
-G.I.T.A. is an atmospheric, console-based strategy/thriller game developed in C# that simulates the most tense moments of the Cold War. The player takes on the role of a commander in a Soviet nuclear bunker, forced to make a decision that will determine the fate of millions in the face of incoming (or potentially erroneous) nuclear attack warnings.
-
-This project is heavily inspired by the real-life story of Stanislav Petrov and the "Dead Hand" system.
+---
 
 # ⚠️ LANGUAGE NOTICE / DİL UYARISI
 Current Version: The game is currently available in Turkish (v1.0).
