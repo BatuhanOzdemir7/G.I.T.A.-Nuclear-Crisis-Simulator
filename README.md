@@ -34,10 +34,10 @@ This project was developed using Object-Oriented Programming (OOP) principles an
 - Language: C#
 - Platform: Windows Console Application
 - Architecture:
-  = Nation Class: Manages the health, population status, and missile counts of the countries.
-  = Narrative Class: Manages the RNG-based dialogue pool and story events.
-  = ThreatChance: Dynamically calculates risk levels and game difficulty based on player actions.
-  = System.Threading: Used for timed events and creating a fluid countdown timer without input lag.
+  - Nation Class: Manages the health, population status, and missile counts of the countries.
+  - Narrative Class: Manages the RNG-based dialogue pool and story events.
+  - ThreatChance: Dynamically calculates risk levels and game difficulty based on player actions.
+  - System.Threading: Used for timed events and creating a fluid countdown timer without input lag.
 
 # 🕹️ How to Run
 1. Clone or Download the repository.
